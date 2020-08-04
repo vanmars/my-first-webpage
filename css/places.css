@@ -1,0 +1,18 @@
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 64px;
+  color: green;
+  text-align: center;
+  font-style: oblique;
+  font-weight: bolder;
+}
+
+li {
+  line-height: 2;
+  color: palevioletred;
+  font-size: 24 px;
+}
+
+img {
+  line-height: 5;
+}
