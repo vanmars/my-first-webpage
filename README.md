@@ -12,6 +12,7 @@ _This is my first, very raw website._
 
 * Clone this url to your Desktop
 * Open cloned file on local computer
+* Enjoy
 
 ## Known Bugs
 
